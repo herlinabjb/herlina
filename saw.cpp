@@ -58,3 +58,6 @@ int main(){
 	double RWa2c[5]={ (Ra2c[0]*w1),(Ra2c[1]*w2),(Ra2c[2]*w3),(Ra2c[3]*w4),(Ra2c[4]*w5) };
 	double RWa3c[5]={ (Ra3c[0]*w1),(Ra3c[1]*w2),(Ra3c[2]*w3),(Ra3c[3]*w4),(Ra3c[4]*w5) };
 	//r*w
+	cout << endl<<endl;
+		cout << "MATRIX R * W :"<<endl;
+	int domba1=0;
