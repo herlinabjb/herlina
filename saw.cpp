@@ -71,3 +71,8 @@ int main(){
 		domba2++;
 	}while(domba2<5);cout<<endl;
 		int domba3=0;
+		do{
+		cout << RWa3c[domba3]<<" | ";
+		domba3++;
+			}while(domba3<5);cout<<endl;
+	//hasil
