@@ -19,3 +19,8 @@ int main(){
 		kuda2++;
 	}while(kuda2<5);cout<<endl;
 		int kuda3=0;
+		do{
+		cout << a3c[kuda3]<<" | ";
+		kuda3++;
+	}while(kuda3<5);cout<<endl;
+	//r
