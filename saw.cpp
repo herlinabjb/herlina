@@ -46,3 +46,8 @@ int main(){
 		sapi2++;
 	}while(sapi2<5);cout<<endl;
 		int sapi3=0;
+		do{
+		cout << Ra3c[sapi3]<<" | ";
+		sapi3++;
+			}while(sapi3<5);cout<<endl;
+	//bb w
